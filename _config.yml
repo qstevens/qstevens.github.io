@@ -14,7 +14,7 @@ author: Stevens Qiu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Articles: "blog"
+  About Me: "aboutme"
   Projects:
     - UBC Courses API: "https://ubc-courses-api.herokuapp.com/"
 
